@@ -1,8 +1,13 @@
 # dell-7080MFF-EFI
 dell 7080 hackintosh EFI
 
-1、更换了原装的Intel Ax200网卡为dw1560；
-2、解锁了bios的CFG、DVMT；
+=== 硬件配置
+* CPU：10500T
+* 内存三星8x2G
+* wifi:dw1560
+
+=== BIOS变更
+* 解锁了bios的CFG、DVMT；
 
 
 不能正常工作的：
